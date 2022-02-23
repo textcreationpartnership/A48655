@@ -1,0 +1,600 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the dukes, marquisses, earls, viscounts, barons, bishops, and judges summoned by writ to the Parliament to be held at Oxford the one and twentieth day of March, 1680/1</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48655</idno>
+            <idno type="STC">Wing L2419A</idno>
+            <idno type="STC">ESTC R719</idno>
+            <idno type="EEBO-CITATION">13653704</idno>
+            <idno type="OCLC">ocm 13653704</idno>
+            <idno type="VID">101021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 793:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the dukes, marquisses, earls, viscounts, barons, bishops, and judges summoned by writ to the Parliament to be held at Oxford the one and twentieth day of March, 1680/1</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Starkey ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Registers.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101021:1"/>
+            <head>A LIST OF THE <hi>D<g ref="char:V">Ʋ</g>KES, MARQ<g ref="char:V">Ʋ</g>ISSES, EARLS, VISCO<g ref="char:V">Ʋ</g>NTS, BARONS, BISHOPS,</hi> and <hi>J<g ref="char:V">Ʋ</g>DGES,</hi> ſummoned by Writ to the PARLIAMENT to be held at <hi>Oxford</hi> the One and twentieth day of <hi>March,</hi> 1680/1.</head>
+            <list>
+               <item>
+                  <hi>JAMES</hi> Duke of <hi>York</hi> and <hi>Albany.</hi>
+               </item>
+               <item>
+                  <hi>RUPERT</hi> Duke of <hi>Cumberland.</hi>
+               </item>
+               <item>
+                  <hi>Heneage Finch</hi> Baron of <hi>Daventry,</hi> Lord High Chancellor of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earl of <hi>Radnor,</hi> Lord Preſident of His Majeſties Privy-Council.</item>
+               <item>
+                  <hi>Arthur</hi> Earl of <hi>Angleſey,</hi> Lord Privy-Seal.</item>
+               <item>
+                  <hi>Henry</hi> Duke of <hi>Norfolk.</hi>
+               </item>
+               <item>
+                  <hi>George</hi> Duke of <hi>Buckingham.</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher</hi> Duke of <hi>Albemarle.</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Duke of <hi>Monmouth.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Duke of <hi>Newcaſtle.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Marquis of <hi>Wincheſter.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Marquis of <hi>Worceſter,</hi> Lord Preſi<g ref="char:EOLhyphen"/>dent of the Principality and Marches of <hi>Wales.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earl of <hi>Lindſey,</hi> Lord Great Cham<g ref="char:EOLhyphen"/>berlain.</item>
+               <item>
+                  <hi>James</hi> Earl of <hi>Brecknock,</hi> Lord Steward of His Majeſties Houſhold.</item>
+               <item>
+                  <hi>Henry</hi> Earl of <hi>Arlington,</hi> Lord Chamber<g ref="char:EOLhyphen"/>lain of His Majeſties Houſhold.</item>
+               <item>
+                  <hi>Aubrey</hi> Earl of <hi>Oxford.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Earl of <hi>Shrewsbury.</hi>
+               </item>
+               <item>
+                  <hi>Anthony</hi> Earl of <hi>Kent.</hi>
+               </item>
+               <item>
+                  <hi>William Richard George</hi> Earl of <hi>Derby.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earl of <hi>Rutland.</hi>
+               </item>
+               <item>
+                  <hi>Theophilus</hi> Earl of <hi>Huntingdon.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Earl of <hi>Bedford.</hi>
+               </item>
+               <item>
+                  <hi>Philip</hi> Earl of <hi>Pembroke</hi> and <hi>Montgomery.</hi>
+               </item>
+               <item>
+                  <hi>Edward</hi> Earl of <hi>Lincoln.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Earl of <hi>Nottingham.</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Earl of <hi>Suffolk.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Earl of <hi>Dorſet</hi> and <hi>Middleſex.</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Earl of <hi>Salisbury.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earl of <hi>Exeter.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earl of <hi>Bridgewater.</hi>
+               </item>
+               <item>
+                  <hi>Philip</hi> Earl of <hi>Leiceſter.</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Earl of <hi>Northampton.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Earl of <hi>Devonſhire.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Earl of <hi>Denbigh.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earl of <hi>Briſtol.</hi>
+               </item>
+               <item>
+                  <hi>Gilbert</hi> Earl of <hi>Clare.</hi>
+               </item>
+               <item>
+                  <hi>Oliver</hi> Earl of <hi>Bullingbrook.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Earl of <hi>Weſtmorland.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earl of <hi>Mancheſter.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Earl of <hi>Berkſhire.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earl of <hi>Mulgrave.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Earl of <hi>Rivers.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Earl of <hi>Peterborough.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Earl of <hi>Stamford.</hi>
+               </item>
+               <item>
+                  <hi>Heneage</hi> Earl of <hi>Winchelſea.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Earl of <hi>Carnarvon.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Earl of <hi>Newport.</hi>
+               </item>
+               <item>
+                  <hi>Philip</hi> Earl of <hi>Cheſterfield.</hi>
+               </item>
+               <item>
+                  <hi>Richard</hi> Earl of <hi>Thanet.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Earl of <hi>Portland.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Earl of <hi>Strafford.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earl of <hi>Sunderland.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earl of <hi>Scarſdale.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Earl of <hi>St. Albans.</hi>
+               </item>
+               <item>
+                  <hi>Edward</hi> Earl of <hi>Sandwich.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Earl of <hi>Clarendon.</hi>
+               </item>
+               <item>
+                  <hi>Arthur</hi> Earl of <hi>Eſſex.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earl of <hi>Cardigan.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earl of <hi>Bath.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Earl of <hi>Carliſle.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Earl of <hi>Craven.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earl of <hi>Ailesbury.</hi>
+               </item>
+               <item>
+                  <hi>Richard</hi> Earl of <hi>Burlington.</hi>
+               </item>
+               <item>
+                  <hi>Anthony</hi> Earl of <hi>Shaftsbury.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earl of <hi>Guilford.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Earl of <hi>Suſſex.</hi>
+               </item>
+               <item>
+                  <hi>Lewis</hi> Earl of <hi>Feverſham.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earl of <hi>Yarmouth.</hi>
+               </item>
+               <item>
+                  <hi>George</hi> Earl of <hi>Hallifax.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Earl of <hi>Macklesfield.</hi>
+               </item>
+               <item>
+                  <hi>George</hi> Earl of <hi>Berkley.</hi>
+               </item>
+               <item>
+                  <hi>Edward</hi> Earl of <hi>Conway,</hi> one of His Ma<g ref="char:EOLhyphen"/>jeſties Principal Secretaries.</item>
+               <item>
+                  <hi>Francis</hi> Viſcount <hi>Mountague.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Viſcount <hi>Say and Seal.</hi>
+               </item>
+               <item>
+                  <hi>Baptiſt</hi> Viſcount <hi>Campden.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Viſcount <hi>Fauconbridge.</hi>
+               </item>
+               <item>
+                  <hi>Francis</hi> Viſcount <hi>Newport,</hi> Treaſurer of His Majeſties Houſholds.</item>
+               <item>
+                  <hi>Charles</hi> Viſcount <hi>Mordant.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Lord <hi>Mowbray.</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Lord <hi>Audley.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Lord <hi>De la Warre.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Lord <hi>Morley and Mounteagle.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Lord <hi>Ferrers.</hi>
+               </item>
+               <item>
+                  <hi>Conyers</hi> Lord <hi>Darcy and Meynell,</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Lord <hi>de Grey.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Lord <hi>Stourton.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Lord <hi>Sandys.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Lord <hi>Windſor.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Lord <hi>Cromwell.</hi>
+               </item>
+               <item>
+                  <hi>Ralph</hi> Lord <hi>Eure.</hi>
+               </item>
+               <item>
+                  <hi>Philip</hi> Lord <hi>Wharton.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Lord <hi>Willoughby</hi> of <hi>Parham.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Lord <hi>Pagett.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Lord <hi>North-Grey</hi> of <hi>Rolleſton.</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Lord <hi>Chandos.</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Lord <hi>Hunſdon.</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Lord <hi>Norreys.</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher</hi> Lord <hi>Tenham.</hi>
+               </item>
+               <item>
+                  <hi>Foulk</hi> Lord <hi>Grevill.</hi>
+               </item>
+               <item>
+                  <hi>Edward</hi> Lord <hi>Mountague</hi> of <hi>Boughton.</hi>
+               </item>
+               <item>
+                  <hi>Ford</hi> Lord <hi>Grey</hi> of <hi>Warke.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Lord <hi>Lovelace.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Lord <hi>Pawlett.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Lord <hi>Maynard,</hi> Comptroller of His Majeſties Houſhold.</item>
+               <item>
+                  <hi>John</hi> Lord <hi>Coventry.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Lord <hi>Howard</hi> of <hi>Eſcrick.</hi>
+               </item>
+               <item>
+                  <hi>Henry</hi> Lord <hi>Herbert</hi> of <hi>Cherbury.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Lord <hi>Leigh.</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher</hi> Lord <hi>Hatton.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Lord <hi>Byron.</hi>
+               </item>
+               <item>
+                  <hi>Richard</hi> Lord <hi>Vaughan.</hi>
+               </item>
+               <item>
+                  <hi>Francis</hi> Lord <hi>Carrington.</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Lord <hi>Widdrington.</hi>
+               </item>
+               <item>
+                  <hi>Edward</hi> Lord <hi>Ward.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Lord <hi>Colepepper.</hi>
+               </item>
+               <item>
+                  <hi>Jacob</hi> Lord <hi>Aſtley.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Lord <hi>Lucas.</hi>
+               </item>
+               <item>
+                  <hi>Edward</hi> Lord <hi>Rockingham.</hi>
+               </item>
+               <item>
+                  <hi>Charles Henry</hi> Lord <hi>Wootton.</hi>
+               </item>
+               <item>
+                  <hi>Marmaduke</hi> Lord <hi>Langdale.</hi>
+               </item>
+               <item>
+                  <hi>Francis</hi> Lord <hi>Holles.</hi>
+               </item>
+               <item>
+                  <hi>Charles</hi> Lord <hi>Cornwallis.</hi>
+               </item>
+               <item>
+                  <hi>George</hi> Lord <hi>Delamere.</hi>
+               </item>
+               <item>
+                  <hi>Horatio</hi> Lord <hi>Townſend.</hi>
+               </item>
+               <item>
+                  <hi>Thomas</hi> Lord <hi>Crew.</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Lord <hi>Freſchevile.</hi>
+               </item>
+               <item>
+                  <hi>Richard</hi> Lord <hi>Arundell</hi> of <hi>Treriſe.</hi>
+               </item>
+               <item>
+                  <hi>Richard</hi> Lord <hi>Butler</hi> of <hi>Weſton.</hi>
+               </item>
+               <item>
+                  <hi>Conyers</hi> Lord <hi>Conyers.</hi>
+               </item>
+            </list>
+            <list>
+               <head>ARCH-BISHOPS and BISHOPS.</head>
+               <item>Dr. <hi>William Sancroft</hi> Lord Arch-biſhop of <hi>Canterbury.</hi>
+               </item>
+               <item>Dr. <hi>Richard Stern</hi> Lord Arch-biſhop of <hi>York.</hi>
+               </item>
+               <item>Dr. <hi>Henry Compton</hi> Lord Biſhop of <hi>London.</hi>
+               </item>
+               <item>Dr. <hi>Nathaniel Crew</hi> Lord Biſhop of <hi>Durham.</hi>
+               </item>
+               <item>Dr. <hi>George Morley</hi> Lord Biſhop of <hi>Win<g ref="char:EOLhyphen"/>cheſter.</hi>
+               </item>
+               <item>Dr. <hi>Herbert Crofts</hi> Lord Biſhop of <hi>Hereford.</hi>
+               </item>
+               <item>Dr. <hi>Seth Ward</hi> Lord Biſhop of <hi>Salisbury.</hi>
+               </item>
+               <item>Dr. <hi>Edward Rainbow</hi> Lord Biſhop of <hi>Carliſle.</hi>
+               </item>
+               <item>Dr. <hi>John Dolben</hi> Lord Biſhop of <hi>Rocheſter.</hi>
+               </item>
+               <item>Dr. <hi>Anthony Sparrow</hi> Lord Biſhop of <hi>Norwich.</hi>
+               </item>
+               <item>Dr. <hi>Peter Gunning</hi> Lord Biſhop of <hi>Ely.</hi>
+               </item>
+               <item>Dr. <hi>Thomas Wood</hi> Lord Biſhop of <hi>Coventry and Litchfield.</hi>
+               </item>
+               <item>Dr. <hi>Peter Mew</hi> Lord Biſhop of <hi>Bath and Wells.</hi>
+               </item>
+               <item>Dr. <hi>John Pearſon</hi> Lord Biſhop of <hi>Cheſter.</hi>
+               </item>
+               <item>Dr. <hi>Humphrey Lloyd</hi> Lord Biſhop of <hi>Bangor.</hi>
+               </item>
+               <item>Dr. <hi>William Lloyd</hi> Lord Biſhop of <hi>Peter<g ref="char:EOLhyphen"/>borough.</hi>
+               </item>
+               <item>Dr. <hi>Guy Carleton</hi> Lord Biſhop of <hi>Chicheſter.</hi>
+               </item>
+               <item>Dr. <hi>Thomas Barlow</hi> Lord Biſhop of <hi>Lincoln.</hi>
+               </item>
+               <item>Dr. <hi>James Fleetwood</hi> Lord Biſhop of <hi>Wor<g ref="char:EOLhyphen"/>ceſter.</hi>
+               </item>
+               <item>Dr. <hi>John Fell</hi> Lord Biſhop of <hi>Oxford.</hi>
+               </item>
+               <item>Dr. <hi>Thomas Lamplugh</hi> Lord Biſhop of <hi>Exeter.</hi>
+               </item>
+               <item>Dr. <hi>William Thomas</hi> Lord Biſhop of S. <hi>Davids.</hi>
+               </item>
+               <item>Dr. <hi>William Gulſton</hi> Lord Biſhop of <hi>Briſtoll.</hi>
+               </item>
+               <item>Dr. <hi>William Beaw</hi> Lord Biſhop of <hi>Landaff.</hi>
+               </item>
+               <item>Dr. <hi>William Lloyd</hi> Lord Biſhop of <hi>S. Aſaph.</hi>
+               </item>
+               <item>Dr. <hi>Robert Frampton</hi> Lord Biſhop Elect of <hi>Glouceſter.</hi>
+               </item>
+            </list>
+            <list>
+               <head>JUDGES.</head>
+               <item>Sir <hi>William Scroggs</hi> Knight, Lord Chief Ju<g ref="char:EOLhyphen"/>ſtice of His Majeſties Court of <hi>Kings-Bench.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>Knights, Juſtices of the ſame Court.</head>
+                     <item>Sir <hi>Thomas Jones,</hi>
+                     </item>
+                     <item>Sir <hi>William Dolben,</hi>
+                     </item>
+                     <item>Sir <hi>Thomas Raymond</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Sir <hi>Francis North</hi> Knight, Lord Chief Juſtice of His Majeſties Court of <hi>Common-Pleas.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>Knights, Juſtices of the ſame Bench.</head>
+                     <item>Sir <hi>Hugh Windham,</hi>
+                     </item>
+                     <item>Sir <hi>Job Charlton,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>William Mountague</hi> Eſq; Lord Chief Baron of His Majeſties Court of <hi>Exchequer.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>Knights, Barons of the ſame Court.</head>
+                     <item>Sir <hi>Edward Atkyns,</hi>
+                     </item>
+                     <item>Sir <hi>William Gregory,</hi>
+                     </item>
+                     <item>Sir <hi>Richard Weſton,</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Starkey</hi> at the <hi>Miter</hi> in<hi>Fleet-ſtreet,</hi> near <hi>Temple-Bar.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
